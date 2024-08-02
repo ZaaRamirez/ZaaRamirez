@@ -78,8 +78,69 @@ Here are some ideas to get you started:
 
 <h3 align="left">⚡AR Devs</h3>
 
-<div align="left">
-  <iframe width="560" height="315" src="[https://www.youtube.com/embed/tu_video_id](https://youtu.be/y08qhn8pes8?si=Y05e4aAl7ZMTRpsh)" frameborder="0" allowfullscreen></iframe>
-</div>
+
+https://github.com/user-attachments/assets/ae1c8398-1b8b-43be-814b-48a24a1114de
+
+https://github.com/user-attachments/assets/e0251701-2053-4b41-a3db-591a4bb65425
+
+
+https://github.com/user-attachments/assets/cec7e8cc-2724-4104-a553-b86c45e4ef89
+
+
+https://github.com/user-attachments/assets/ddb331ee-5cb8-4c28-8791-73509ffb6ef5
+
+
+https://github.com/user-attachments/assets/8968f6ac-ee39-4254-8913-59e17c757606
+
+
+https://github.com/user-attachments/assets/2d678d1a-7c67-4256-a828-271658e5960c
+
+
+https://github.com/user-attachments/assets/b48dca9a-a987-49bd-94df-4bc461d3f1cd
+
+
+https://github.com/user-attachments/assets/9f57ee73-c188-41ca-9f78-0cdce4600659
+
+
+https://github.com/user-attachments/assets/383af2d1-d7d5-4050-a2b4-384ef72b6239
+
+
+https://github.com/user-attachments/assets/f4f1cf64-fb57-497f-a9a3-61d6789c76a2
+
+
+https://github.com/user-attachments/assets/21dc5102-b7ea-4885-b86e-50f9c45b9e1f
+
+<h3 align="left">⚡VR Devs</h3>
+
+
+https://github.com/user-attachments/assets/89421f88-043a-40da-bb9b-65d9d82e069e
+
+https://github.com/user-attachments/assets/3e73cc41-6f7e-4e1b-8699-f47089cd327a
+
+<h3 align="left">⚡Misc Devs</h3>
+
+
+https://github.com/user-attachments/assets/1d92d342-46da-4377-ad11-10c40893a53a
+
+
+https://github.com/user-attachments/assets/9f67c232-e367-4970-9027-2c9c2ea2adb8
+
+
+https://github.com/user-attachments/assets/555b878d-4d2f-481c-9bce-d5e852d19148
+
+
+https://github.com/user-attachments/assets/187b5470-61e9-4525-867b-2257f6bf8225
+
+
+
+https://github.com/user-attachments/assets/fe576f08-82c2-4489-98cb-6b31349d1758
+
+
+
+https://github.com/user-attachments/assets/bd08f795-5b35-474e-91e2-188cea6e6b0d
+
+
+
+
 
 ###
