@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZaaRamirez/ZaaRamirez/output/github-contribution-grid-snake.svg />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZaaRamirez/ZaaRamirez/output/github-contribution-grid-snake.svg" />
 
 ###
 
