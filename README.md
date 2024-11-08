@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img align="right" height="200" src="[https://firebasestorage.googleapis.com/v0/b/p3test-5059d.appspot.com/o/Casual-fotor-ai-art-effects-20240801151419.jpeg?alt=media&token=d1acd2b7-10e0-4315-8ba8-bc2116d56b20](https://drive.google.com/file/d/1UhVbPwqQ1QU-iM-5JVlZKBS8HVQFH0qY/view?usp=drive_link)"  />
+<img align="right" height="200" src= "https://github.com/user-attachments/assets/96af84fd-0c07-41ad-abbe-8a6a32e899a3">
 
 ###
 
